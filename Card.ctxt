@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=pFace\ pSuit\ pFaceValue
+comment0.target=Card(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Card\r\n
+comment1.params=
+comment1.target=java.lang.String\ getFace()
+comment2.params=
+comment2.target=java.lang.String\ getSuit()
+comment3.params=
+comment3.target=int\ getFaceValue()
+comment4.params=
+comment4.target=void\ setFaceValue11()
+comment5.params=
+comment5.target=void\ print()
+comment6.params=
+comment6.target=boolean\ aceCheck()
+numComments=7

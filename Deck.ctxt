@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Deck()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Deck\r\n
+comment1.params=
+comment1.target=void\ initializeFaces()
+comment2.params=
+comment2.target=void\ initializeSuits()
+comment3.params=
+comment3.target=void\ initializeFaceValues()
+comment4.params=
+comment4.target=void\ createADeck()
+comment5.params=
+comment5.target=int\ size()
+comment6.params=pIndex
+comment6.target=Card\ returnCard(int)
+comment7.params=pIndex
+comment7.target=void\ removeCard(int)
+numComments=8
