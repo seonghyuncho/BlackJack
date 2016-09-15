@@ -2,9 +2,8 @@
 /**
  * Write a description of class Card here.
  * 
- * @author Nikhil Srinivasan
- * @version 09/14/2016
- * TESTING, this is a test of a change in the card class
+ * @author (your name) 
+ * @version (a version number or a date)
  */
 public class Card
 {
